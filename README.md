@@ -8,6 +8,6 @@ npm install
 ### Executar o Mobile
 
 ```bash
-# Execute em outro terminal (dentro da pasta AluraHub)
+# Execute em outro terminal
 npx expo start
 ```
